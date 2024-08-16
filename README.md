@@ -12,9 +12,9 @@
 - Jugar rol
 
 ## *Videojuegos favoritos*
--OUTER WILDS (hablenme de outer wilds por favor)
+- OUTER WILDS (hablenme de outer wilds por favor)
 ![Outerwilds](outerwilds.jpg)
--Toda la saga Zelda (especialmente Twilight princess y Tears of the kingdom)
--Hollow knight
--Crosscode
--Va-11 Hall-A
+- Toda la saga Zelda (especialmente Twilight princess y Tears of the kingdom)
+- Hollow knight
+- Crosscode
+- Va-11 Hall-A

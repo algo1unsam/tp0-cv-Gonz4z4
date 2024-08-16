@@ -13,7 +13,7 @@
 
 ## *Videojuegos favoritos*
 - OUTER WILDS (hablenme de outer wilds por favor)
-![Outerwilds](outerwilds.jpg)
+![Outerwilds](outerwilds1.jpg)
 - Toda la saga Zelda (especialmente Twilight princess y Tears of the kingdom)
 - Hollow knight
 - Crosscode
